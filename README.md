@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmcclurg79
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science and data visualization projects
+- 🌱 I’m currently learning data science advanceed techniques
+- 💞️ I’m looking to collaborate on AI/ML and data visualization projects
 - 📫 How to reach me ... pmmcclurg@att.net
 
 <!---
